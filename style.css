@@ -19,3 +19,10 @@
     color:white;
     padding-top: 180px;
 }
+.banner-text h1 {
+    font-size: 130px;
+}
+.banner-text p {
+    font-size: 20px;
+    font-style: italic;
+}
