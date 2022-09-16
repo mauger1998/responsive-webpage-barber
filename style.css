@@ -124,6 +124,13 @@ nav ul li a {
     z-index: 1;
     display: inline-block;
 }
+
+.title-text p::after {
+    content:'';
+    width: 50px;
+    height: 35px;
+    background: linear-gradient();
+}
 .title-text h1{
     font-size: 50px;
 }
