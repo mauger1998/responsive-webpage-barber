@@ -122,6 +122,7 @@ nav ul li a {
     font-weight: 700;
     position: relative;
     z-index: 1;
+    display: inline-block;
 }
 .title-text h1{
     font-size: 50px;
