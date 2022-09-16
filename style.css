@@ -115,3 +115,8 @@ nav ul li a {
     text-align:center;
     padding-bottom: 70px;
 }
+.title-text p{
+    margin: auto;
+    font-size: 20px;
+    color: #009688;
+}
