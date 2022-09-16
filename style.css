@@ -84,4 +84,7 @@ nav ul li a {
     height: 50px;
     background:#009688;
     text-align: center;
+    position: fixed;
+    right: 30px;
+    top: 20px;
 }
