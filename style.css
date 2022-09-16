@@ -147,4 +147,5 @@ nav ul li a {
     margin: auto;
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
 }
