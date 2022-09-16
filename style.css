@@ -120,6 +120,8 @@ nav ul li a {
     font-size: 20px;
     color: #009688;
     font-weight: 700;
+    position: relative;
+    z-index: 1;
 }
 .title-text h1{
     font-size: 50px;
