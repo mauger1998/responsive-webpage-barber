@@ -129,7 +129,11 @@ nav ul li a {
     content:'';
     width: 50px;
     height: 35px;
-    background: linear-gradient();
+    background: linear-gradient(#019587, #fff);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index:-1 ;
 }
 .title-text h1{
     font-size: 50px;
