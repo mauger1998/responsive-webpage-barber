@@ -155,3 +155,7 @@ nav ul li a {
 .feature {
     flex-basis: 50%;
 }
+.feature-img {
+    flex-basis: 50%;
+    margin: auto;
+}
