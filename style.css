@@ -106,3 +106,8 @@ nav ul li a {
         margin: 20px auto;
     }
 }
+/*--feature--*/
+#features {
+    width: 100%;
+    padding: 20px 0;
+}
