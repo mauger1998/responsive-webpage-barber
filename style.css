@@ -159,3 +159,7 @@ nav ul li a {
     flex-basis: 50%;
     margin: auto;
 }
+.feature-img img{
+    width: 70%;
+    border-radius: 10px;
+}
