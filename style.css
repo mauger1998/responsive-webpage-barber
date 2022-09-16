@@ -91,3 +91,7 @@ nav ul li a {
     z-index: 3;
     cursor: pointer;
 }
+#menuBtn img{
+    width: 20px;
+    margin-top: 15px;;
+}
