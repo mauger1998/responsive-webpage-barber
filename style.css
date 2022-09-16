@@ -165,4 +165,7 @@ nav ul li a {
 }
 .feature h1{
     text-align:left;
+    margin-bottom: 10px;
+    font-weight: 100;
+    color: #009688;
 }
