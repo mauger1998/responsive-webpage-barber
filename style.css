@@ -40,3 +40,8 @@
     color: #fff;
     border: 0.5px solid white;
 }
+.banner-btn a span {
+    width: 50%;
+    height: 100%;
+
+}
