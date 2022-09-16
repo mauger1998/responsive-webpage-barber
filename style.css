@@ -41,6 +41,7 @@
     border: 0.5px solid white;
     position: relative;
     z-index: 1;
+    transition: 0.5s;
 }
 .banner-btn a span {
     width: 0%;
