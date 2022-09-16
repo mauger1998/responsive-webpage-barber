@@ -172,4 +172,5 @@ nav ul li a {
 .feature-desc {
     display: flex;
     align-items: center;
+    margin-bottom: 40px;
 }
