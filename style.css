@@ -50,6 +50,7 @@
     left:0;
     background: white;
     z-index: -1;
+    transition: 0.5s;
 
 }
 .banner-btn a:hover span {
