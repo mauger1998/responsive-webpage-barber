@@ -117,6 +117,7 @@ nav ul li a {
 }
 .title-text p{
     margin: auto;
+    margin-top:25px;
     font-size: 20px;
     color: #009688;
     font-weight: 700;
@@ -135,6 +136,8 @@ nav ul li a {
     left: 0;
     z-index:-1;
     transform: rotate(10deg);
+    border-top-left-radius:35px ;
+    border-bottom-right-radius: 35px;
 }
 .title-text h1{
     font-size: 50px;
